@@ -1,10 +1,10 @@
 /*
+Color Pallete
 White Smoke: rgba(247, 247, 242, 1);
 Verdigris: rgba(58, 175, 185, 1);
 Sea Blue: rgba(0, 105, 137, 1);
 Rich Black: rgba(9, 58, 62, 1);
 Licorice: rgba(18, 17, 19, 1);
-
 */
 
 #main {
@@ -33,10 +33,10 @@ body {
   max-width: 75%;
   margin: 0 auto;
   border-radius: 5px;
-
 }
 #survey-form {
-  text-align: center;
+  text-align: left;
+  margin-left: 35%;
 }
 label {
   font-size: 14px;
@@ -55,4 +55,9 @@ label {
 #number-label {
 }
 #dropdown {
+}
+#radio {
+}
+#checkbox {
+  color: rgba(247, 247, 242, 1);
 }
